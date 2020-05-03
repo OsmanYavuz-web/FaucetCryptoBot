@@ -24,4 +24,4 @@ FaucetCrypto.com Automatic Bot
 
 - Paste the code you copied
 
-![FaucetCryptoBot](https://raw.githubusercontent.com/OsmanYavuz-web/FaucetCryptoBot/master/img/FaucetCryptoBot-3.png)
+![FaucetCryptoBot](https://raw.githubusercontent.com/OsmanYavuz-web/FaucetCryptoBot/master/img/FaucetCryptoBot-3.PNG)

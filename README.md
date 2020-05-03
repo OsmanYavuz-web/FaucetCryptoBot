@@ -7,4 +7,4 @@ FaucetCrypto.com Automatic Bot
 - ~~Archievements~~
 - PtcAds
 
-![FaucetCryptoBot](blob:https://imgur.com/97055350-8089-4781-9a83-9236e6b60dc3)
+![FaucetCryptoBot](https://i.ibb.co/qFbNBXM/Faucet-Crypto-Bot.jpg)

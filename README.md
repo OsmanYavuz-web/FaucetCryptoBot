@@ -13,15 +13,15 @@ FaucetCrypto.com Automatic Bot
 - ~~Archievements~~
 - PtcAds
 
-![FaucetCryptoBot](https://i.ibb.co/qFbNBXM/Faucet-Crypto-Bot.jpg)
+![FaucetCryptoBot](https://raw.githubusercontent.com/OsmanYavuz-web/FaucetCryptoBot/master/img/FaucetCryptoBot-1.jpg)
 
 
 ## Authorization Code
 
 - Copy 'Authorization' section
 
-![FaucetCryptoBot](https://i.ibb.co/Bnd53Xx/Faucet-Crypto-Bot-2.jpg)
+![FaucetCryptoBot](https://raw.githubusercontent.com/OsmanYavuz-web/FaucetCryptoBot/master/img/FaucetCryptoBot-2.jpg)
 
 - Paste the code you copied
 
-![FaucetCryptoBot](https://i.ibb.co/r67Q9Ts/Faucet-Crypto-Bot-3.png)
+![FaucetCryptoBot](https://raw.githubusercontent.com/OsmanYavuz-web/FaucetCryptoBot/master/img/FaucetCryptoBot-3.jpg)

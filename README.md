@@ -19,7 +19,9 @@ FaucetCrypto.com Automatic Bot
 ## Authorization Code
 
 - Copy 'Authorization' section
+
 ![FaucetCryptoBot](https://i.ibb.co/Bnd53Xx/Faucet-Crypto-Bot-2.jpg)
 
 - Paste the code you copied
+
 ![FaucetCryptoBot](https://i.ibb.co/r67Q9Ts/Faucet-Crypto-Bot-3.png)

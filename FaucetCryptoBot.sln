@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaucetCryptoBot.UI", "FaucetCryptoBot.UI\FaucetCryptoBot.UI.csproj", "{9AFDF612-F628-4670-9824-DEDBB885FEF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaucetCryptoBot.Engine", "FaucetCryptoBot.Engine\FaucetCryptoBot.Engine.csproj", "{5DECAEF7-D089-47A7-89E5-4F7581F44333}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reCAPTCHA.Resolver.Core", "..\reCAPTCHA.Resolver\reCAPTCHA.Resolver.Core\reCAPTCHA.Resolver.Core.csproj", "{9F92E51C-2156-4E23-8E2E-16EB202AB170}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AFDF612-F628-4670-9824-DEDBB885FEF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AFDF612-F628-4670-9824-DEDBB885FEF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AFDF612-F628-4670-9824-DEDBB885FEF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AFDF612-F628-4670-9824-DEDBB885FEF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DECAEF7-D089-47A7-89E5-4F7581F44333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DECAEF7-D089-47A7-89E5-4F7581F44333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DECAEF7-D089-47A7-89E5-4F7581F44333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DECAEF7-D089-47A7-89E5-4F7581F44333}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F92E51C-2156-4E23-8E2E-16EB202AB170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F92E51C-2156-4E23-8E2E-16EB202AB170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F92E51C-2156-4E23-8E2E-16EB202AB170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F92E51C-2156-4E23-8E2E-16EB202AB170}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED361573-AE47-4867-9C49-14F9E932B06F}
+	EndGlobalSection
+EndGlobal

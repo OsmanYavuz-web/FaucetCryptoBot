@@ -1,0 +1,6 @@
+[0428/180304.419:ERROR:process_info.cc(329)] VirtualQueryEx: Eriþim engellendi. (0x5)
+[0428/180304.422:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0428/180304.422:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Sona ermekte olan bir iþleme eriþmeye çalýþýldý. (0xc000010a)
+[0430/230051.060:ERROR:process_info.cc(329)] VirtualQueryEx: Eriþim engellendi. (0x5)
+[0430/230051.062:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0430/230051.062:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Sona ermekte olan bir iþleme eriþmeye çalýþýldý. (0xc000010a)

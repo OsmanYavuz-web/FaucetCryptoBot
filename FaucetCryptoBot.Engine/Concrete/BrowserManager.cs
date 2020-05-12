@@ -43,6 +43,7 @@ namespace FaucetCryptoBot.Engine.Concrete
 
             // Parametreler
             //Constants.Options.AddArguments("--incognito"); // gizli tarayıcı
+            Constants.Options.AddArguments("--headless");
             Constants.Options.AddArguments("--start-maximized"); // tam ekran
             Constants.Options.AddArgument($@"--user-data-dir={userPath}"); // Chrome profil
             Constants.Options.AddArgument("--disable-gpu"); // gpu kullanımını kaldırma

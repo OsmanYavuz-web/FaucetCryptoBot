@@ -120,3 +120,4 @@ G:\OsmanYavuz-web\FaucetCryptoBot\FaucetCryptoBot.Engine\bin\Debug\JWT.xml
 G:\OsmanYavuz-web\FaucetCryptoBot\FaucetCryptoBot.Engine\obj\Debug\FaucetCryptoBot.Engine.csproj.CopyComplete
 G:\OsmanYavuz-web\FaucetCryptoBot\FaucetCryptoBot.Engine\obj\Debug\FaucetCryptoBot.Engine.dll
 G:\OsmanYavuz-web\FaucetCryptoBot\FaucetCryptoBot.Engine\obj\Debug\FaucetCryptoBot.Engine.pdb
+G:\OsmanYavuz-web\FaucetCryptoBot\FaucetCryptoBot.Engine\obj\Debug\FaucetCryptoBot.Engine.csproj.CoreCompileInputs.cache

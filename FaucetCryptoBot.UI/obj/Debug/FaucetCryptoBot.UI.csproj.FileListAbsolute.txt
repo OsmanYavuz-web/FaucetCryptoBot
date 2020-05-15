@@ -90,3 +90,4 @@ G:\OsmanYavuz-web\FaucetCryptoBot\FaucetCryptoBot.UI\obj\Debug\FaucetCryptoBot.U
 G:\OsmanYavuz-web\FaucetCryptoBot\FaucetCryptoBot.UI\obj\Debug\FaucetCryptoBot.UI.csproj.CopyComplete
 G:\OsmanYavuz-web\FaucetCryptoBot\FaucetCryptoBot.UI\obj\Debug\FaucetCryptoBot.UI.exe
 G:\OsmanYavuz-web\FaucetCryptoBot\FaucetCryptoBot.UI\obj\Debug\FaucetCryptoBot.UI.pdb
+G:\OsmanYavuz-web\FaucetCryptoBot\FaucetCryptoBot.UI\obj\Debug\FaucetCryptoBot.UI.csproj.CoreCompileInputs.cache
